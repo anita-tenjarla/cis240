@@ -1,0 +1,4 @@
+OPERATION SYSTEM ASSEMBLY 
+
+master_os.asm is the TA-released official version of os.asm file released for hw7 (CubeRunner) -- in case your hw6 submission had bugs. 
+You can use this as a reference, but obviously it's better to implement your own version in accordance with the instructions.
