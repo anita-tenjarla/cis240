@@ -1,0 +1,5 @@
+as lfsr lfsr
+ld lfsr
+set R0 536
+set PC 0
+break set END

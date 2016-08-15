@@ -1,0 +1,6 @@
+as bubble_b bubble_b
+ld bubble_b
+set R0 x4000
+set R1 x400F
+set PC 0
+break set END

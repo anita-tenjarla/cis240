@@ -1,0 +1,7 @@
+reset
+as sqrt sqrt
+ld sqrt
+set PC 0
+set R0 0
+set R1 17
+break set END

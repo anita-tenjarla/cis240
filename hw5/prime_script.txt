@@ -1,0 +1,6 @@
+reset
+as prime prime
+ld prime
+set PC 0
+set R0 17
+break set END
