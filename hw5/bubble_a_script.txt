@@ -1,0 +1,5 @@
+reset
+as bubble_a bubble_a
+ld bubble_a
+set PC 0
+break set END
