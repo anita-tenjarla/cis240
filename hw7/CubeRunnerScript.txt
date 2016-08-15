@@ -1,0 +1,7 @@
+clear
+reset
+as os os
+as CubeRunner libc CubeRunner
+ld os
+ld CubeRunner
+#break set TRAP_HALT
